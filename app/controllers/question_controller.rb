@@ -1,5 +1,7 @@
 class QuestionController < ApplicationController
 
+   
+
     get '/question' do 
         erb :new
     end 
