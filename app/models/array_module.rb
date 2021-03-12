@@ -17,7 +17,6 @@ module Videos
     "https://www.youtube.com/watch?v=Sy5rmAhen98", 
     "https://www.youtube.com/watch?v=Vs_DkAzMoVM", 
     "https://www.youtube.com/watch?v=88Sxz6qRyCk",  
-    "https://www.youtube.com/watch?v=PILRM5w1JXE"
 ] 
    end  
 
