@@ -15,4 +15,7 @@ gem 'nokogiri'
 gem 'open-uri'
 gem 'httparty'
 
+group :production do 
+    gem "puma"
+end 
 
