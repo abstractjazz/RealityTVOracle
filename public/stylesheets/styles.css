@@ -26,11 +26,11 @@ input {
 
 
 input:first-child {
-
-  overflow: hidden;
-  width: 98%
+  
+  width: 200vh;
   
 }
+
 
 
 #question {
