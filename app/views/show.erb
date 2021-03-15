@@ -1,10 +1,18 @@
 
-<div class="fade-in">
-<h1>Your Query: <%= @parrot %></h1><br><br>
-<h2>Press play to reveal your fortune</h2>
 
-<iframe width="560" height="315" src="<%= @vid %>"></iframe>
-
-
-<h1>I can see more for you. <a href="/question">Ask another question.</a></h1>
+<div class="container">
+    <div class="fade-in">
+        <div class="box_item_1">
+        <h1 id="headline">Your query: <%= @parrot %></h1><br><br>
+        </div>
+        <h2 id="subhead">Press play to reveal your fortune</h2>
+        <div class="box_item_2">
+        <iframe width="560" height="315" src="<%= @vid %>"></iframe>
+        </div>
+        <div class="box_item_3">
+        <h3 style="color:purple;" id="foot">I can see more in store for you. <a href="/question">Ask another question.</a></h3>
+        </div>
+        </div>
+    </div>
 </div>
+

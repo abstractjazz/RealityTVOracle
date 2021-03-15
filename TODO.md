@@ -1,9 +1,19 @@
+Title = TRASH TV FORTUNE TELLER 
+To do: get more URLs
+Make it look amazing! 
+
 #land on a landing page with a question form 
 
 <!-- question form: 
 your name
 your question -->
  
+ADD welcome copy + animated sample questions that fade on and off. 
+
+what should I do with my life? 
+what should I have for dinner? 
+Am I meant to be a competitive eater? 
+Where are my keys? 
 
 
 #submit a question and be routed to a page where a random-ish video plays, answering your question. 

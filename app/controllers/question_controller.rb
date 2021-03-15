@@ -3,11 +3,11 @@ class QuestionController < ApplicationController
    
 
     get '/question' do 
-        erb :new
+    erb :new
     end 
 
     post '/answer' do 
-
+        
         @parrot = params[:question]
         @question = Question.video_array   
         

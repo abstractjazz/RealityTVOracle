@@ -11,5 +11,8 @@ gem 'shotgun'
 gem 'pry'
 gem 'bcrypt'
 gem 'tux'
+gem 'nokogiri'
+gem 'open-uri'
+gem 'httparty'
 
 

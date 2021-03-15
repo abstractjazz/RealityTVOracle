@@ -8,7 +8,10 @@ class ApplicationController < Sinatra::Base
   end
 
   get "/" do
-    erb :welcome
-  end
+   @scraper = Scraper.scrape_songs
+   binding.pry
+    redirect '/question'
+    end 
+ 
 
 end
