@@ -8,8 +8,8 @@ class ApplicationController < Sinatra::Base
   end
 
   get "/" do
-   @scraper = Scraper.scrape_songs
-   binding.pry
+  #  @scraper = Scraper.scrape_songs
+  #  binding.pry
     redirect '/question'
     end 
  
