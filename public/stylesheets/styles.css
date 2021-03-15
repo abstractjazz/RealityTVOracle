@@ -26,7 +26,8 @@ input {
 
 
 input:first-child {
-  
+
+  overflow: hidden;
   width: 98%
   
 }
