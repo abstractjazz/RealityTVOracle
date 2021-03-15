@@ -24,6 +24,14 @@ input {
   color: blue;
 }
 
+
+input:first-child {
+  
+  width: 98%
+  
+}
+
+
 #question {
   text-align: center;
 }
