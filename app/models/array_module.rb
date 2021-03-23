@@ -39,6 +39,19 @@ module Videos
     "https://www.youtube.com/watch?v=rMjqHFApfX0",
     "https://www.youtube.com/watch?v=Vg3YM6Uv_dg",
     "https://www.youtube.com/watch?v=88EUKTByPZQ",
+    "https://www.youtube.com/watch?v=3dkrz4r4cZU",
+    "https://www.youtube.com/watch?v=fw3UYy02lSI",
+   "https://www.youtube.com/watch?v=TduIR2xm2Wc",
+   "https://www.youtube.com/watch?v=D5FzCeV0ZFc",
+   "https://www.youtube.com/watch?v=0bomkgXeDkE",
+   "https://www.youtube.com/watch?v=NmxFF6LiJis",
+   "https://www.youtube.com/watch?v=hkLX_n2rix0",
+   "https://www.youtube.com/watch?v=x2ttq9oOvks",
+   "https://www.youtube.com/watch?v=LaRXbnKvwSo",
+   "https://www.youtube.com/watch?v=FqtEi_aqGX0",
+   "https://www.youtube.com/watch?v=oHksoYxciBE",
+   "https://www.youtube.com/watch?v=BqGFaQYa0lc",
+   "https://www.youtube.com/watch?v=oHg5SJYRHA0",
 ] 
    end  
 
